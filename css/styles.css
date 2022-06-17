@@ -1,0 +1,20 @@
+code {
+    padding: 0.2em 0.4em;
+    color: rgb(47, 47, 55);
+    background-color: rgb(224, 226, 230);
+    border-radius: 5px;
+}
+
+.code {
+    display: block;
+        box-sizing: border-box;
+        background-color: rgb(22, 29, 42);
+        overflow-wrap: break-word;
+        text-rendering: optimizelegibility;
+        white-space: pre;
+        padding: 16px;
+        border-radius: 0.4rem;
+        color: rgb(240, 113, 120);
+        overflow-x: auto;
+        max-width: 40vw;
+}
