@@ -43,3 +43,13 @@ strong {
     color: rgb(41, 41, 41);
     font-weight: bolder;
 }
+
+.attention {
+    background-color: rgb(250, 56, 62);
+    padding: 16px;
+    margin: 0px 24px 16px;
+    border-radius: 0.4rem;
+    color: rgb(255, 255, 255);
+    overflow-wrap: break-word;
+    text-rendering: optimizelegibility;
+}
