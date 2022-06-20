@@ -38,3 +38,8 @@ code {
     overflow-wrap: break-word;
     text-rendering: optimizelegibility;
 }
+
+strong {
+    color: rgb(41, 41, 41);
+    font-weight: bolder;
+}
